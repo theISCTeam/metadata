@@ -2,5 +2,5 @@
   "name": "A Test Coin",
   "symbol": "PQRS",
   "description": "Fully for testing purposes only",
-  "image": "https://github.com/theISCTeam/metadata/blob/main/logo.png?raw=true"
+  "image": "https://raw.githubusercontent.com/theISCTeam/metadata/main/logo.png"
 }
